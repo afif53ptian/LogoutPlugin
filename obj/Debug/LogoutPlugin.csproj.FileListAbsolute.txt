@@ -1,0 +1,8 @@
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\LogoutPlugin\obj\Debug\LogoutPlugin.csprojAssemblyReference.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\LogoutPlugin\obj\Debug\ExamplePacketPlugin.Main.resources
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\LogoutPlugin\obj\Debug\LogoutPlugin.csproj.GenerateResource.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\LogoutPlugin\obj\Debug\LogoutPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\LogoutPlugin\obj\Debug\ExamplePacketPlugin.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\LogoutPlugin\obj\Debug\ExamplePacketPlugin.pdb
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\LogoutPlugin\bin\Debug\ExamplePacketPlugin.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\LogoutPlugin\bin\Debug\ExamplePacketPlugin.pdb
